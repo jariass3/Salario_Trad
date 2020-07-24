@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Salario_Trad_it_IT.qm</file>
+        <file>Salario_Trad_pt_BR.qm</file>
+        <file>Salario_Trad_tr_TR.qm</file>
+        <file>Recursos/anadir.png</file>
+        <file>Recursos/bandeja-de-salida.png</file>
+        <file>Recursos/calculadora.png</file>
+        <file>Recursos/edicion-tex.png</file>
+        <file>Recursos/efectivo.png</file>
+        <file>Recursos/informacion.png</file>
+        <file>Recursos/salvar.png</file>
+    </qresource>
+</RCC>
